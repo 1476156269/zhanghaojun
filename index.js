@@ -1,4 +1,4 @@
-class Problem{
+export default class Problem{
     demo(){
         console.log(111)
     }
