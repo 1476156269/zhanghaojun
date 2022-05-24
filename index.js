@@ -1,4 +1,7 @@
 class Problem{
+    demo(){
+        console.log(111)
+    }
     constructor(){
         //保存按钮的点击事件
         let save = this.$('.save-data')
